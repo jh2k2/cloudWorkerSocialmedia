@@ -1,0 +1,11 @@
+name = "worker_api"
+type = "webpack"
+
+account_id = ""
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2021-11-03"
+kv_namespaces = [ 
+    { binding = "MY_KV", id = "63540ababde84639bb5b34a35f857bbb" }
+]
