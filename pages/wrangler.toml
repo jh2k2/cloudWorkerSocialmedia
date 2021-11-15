@@ -1,0 +1,10 @@
+name = "pages"
+type = "webpack"
+route = ''
+zone_id = ''
+usage_model = ''
+account_id = '49b1f7a8e5ae99abd762d12d8cf05ee0'
+compatibility_flags = []
+workers_dev = true
+site = {bucket = "./build",entry-point = "workers-site"}
+compatibility_date = "2021-11-15"

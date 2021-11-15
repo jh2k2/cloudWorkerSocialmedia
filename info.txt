@@ -3,4 +3,4 @@ Username: xNeYDydyjj7KcpTAxOIxPZ7qbp8HddpNrqmTKI
 Password: QaQ5P3Ve
 
 Workers URL: https://worker_api.jerryhsieh.workers.dev/
-Pages URL: 
+Pages URL: https://pages.jerryhsieh.workers.dev/
